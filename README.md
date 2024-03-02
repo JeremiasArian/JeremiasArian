@@ -25,11 +25,10 @@ I like to do things in Java, for now.
 
 ### Certificates & Courses :
 <div>
-  <a href="https://certificate.mooc.fi/validate/anwzi52aizc" title="Java Programming I">
+  <a href="https://certificates.mooc.fi/validate/anwzi52aizc" title="Java Programming I" target="_blank">
     <img src="https://github.com/JeremiasArian/logos/blob/main/logo.png" alt="Java Programming I" width="40" height="40"/>
   </a>
 </div>
-
 
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeremiasArian&theme=transparent&hide_border=true)](https://git.io/streak-stats)
