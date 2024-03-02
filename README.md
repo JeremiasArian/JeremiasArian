@@ -1,3 +1,5 @@
+---
+
 ### About Me :
 I like to do things in Java, for now.
 
@@ -33,7 +35,11 @@ I like to do things in Java, for now.
   </a>
 </div>
 
+---
+
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeremiasArian&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasArian&layout=donut-vertical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
