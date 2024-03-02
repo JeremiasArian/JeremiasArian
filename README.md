@@ -9,7 +9,7 @@ I like to do things in Java, for now.
 <div>
 
 ---
-  
+
 ### Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -21,8 +21,15 @@ I like to do things in Java, for now.
 
 ### Projects :
 
-
 ---
+
+### Certificates & Courses :
+<div>
+  <a href="https://certificate.mooc.fi/validate/anwzi52aizc" title="Java Programming I">
+    <img src="https://github.com/JeremiasArian/logos/blob/main/logo.png" alt="Java Programming I" width="40" height="40"/>
+  </a>
+</div>
+
 
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeremiasArian&theme=transparent&hide_border=true)](https://git.io/streak-stats)
