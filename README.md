@@ -28,6 +28,9 @@ I like to do things in Java, for now.
   <a href="https://certificates.mooc.fi/validate/anwzi52aizc" title="Java Programming I" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/JeremiasArian/logos/blob/main/logo.png" alt="Java Programming I" width="40" height="40"/>
   </a>
+  <a href="https://certificates.mooc.fi/validate/ga18hrv837s" title="Java Programming II" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/JeremiasArian/logos/blob/main/logo.png" alt="Java Programming II" width="40" height="40"/>
+  </a>
 </div>
 
 ### My Stats :
