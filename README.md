@@ -1,5 +1,5 @@
 ### About Me :
-I am a Backend and Software Developer.
+I like to do things in Java, for now.
 
 ---
 
