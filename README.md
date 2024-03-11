@@ -8,7 +8,7 @@ I like to do things in Java.
 ### Languages :
 Programming languages and their respective Frameworks/Libraries and tools that i am comfortable with.
 <div>
-  <img src="https://github.com/JeremiasArian/Images/blob/main/java-14-logo-1533676477.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; <strong>Java</strong>: Java SE. IntelliJ IDEA. JUnit 5. JavaFX, SceneBuilder, FXML.
+  <img src="https://github.com/JeremiasArian/Images/blob/main/java-14-logo-1533676477.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; <strong>Java</strong>: Java SE. IntelliJ IDEA. JUnit . JavaFX, SceneBuilder, FXML.
 <div>
 
 ---
