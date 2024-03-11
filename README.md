@@ -27,7 +27,6 @@ Programming languages and their respective Frameworks/Libraries and tools that i
 
 ---
 
-### My Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasArian&layout=compact&hide_border=true&theme=transparent)
 
