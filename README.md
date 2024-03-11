@@ -1,27 +1,21 @@
 ---
 
 ### About Me :
-I like to do things in Java, for now.
+I like to do things in Java.
 
 ---
 
 ### Languages :
+Programming languages and their respective Frameworks/Libraries and tools that i am comfortable with.
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JeremiasArian/Images/blob/main/java-14-logo-1533676477.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; <strong>Java</strong>: Java SE. IntelliJ IDEA. JUnit 5. JavaFX, SceneBuilder, FXML.
 <div>
-
----
-
-### Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>
-</div>
 
 ---
 
 ### Projects :
+
+<p><a title="JavaFX Test" href="https://github.com/JeremiasArian/javafx-test" target="_blank">JavaFX Test</a></p>
 
 ---
 
@@ -34,8 +28,7 @@ I like to do things in Java, for now.
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeremiasArian&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasArian&layout=donut-vertical&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasArian&layout=compact&hide_border=true&theme=transparent)
 
 ---
